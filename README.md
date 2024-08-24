@@ -19,7 +19,7 @@ It's entire purpose was to learn how to use the TinyURL API and how to build a s
 ## Getting Started
 
 To get started with this project, follow these steps:
-1. Clone the repository: git clone https://github.com/your-username/url-shortener.git
+1. Clone the repository: git clone [https://github.com/your-username/url-shortener.git](https://github.com/erick-alexsandro/URL-Shortener)
 2. Install dependencies: npm install
 3. Start the development server: npm run dev
 4. Open your browser and navigate to http://localhost:3000 to access the URL shortener.

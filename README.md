@@ -21,8 +21,9 @@ It's entire purpose was to learn how to use the TinyURL API and how to build a s
 To get started with this project, follow these steps:
 1. Clone the repository: git clone [https://github.com/erick-alexsandro/URL-Shortener](https://github.com/erick-alexsandro/URL-Shortener)
 2. Install dependencies: npm install
-3. Start the development server: npm run dev
-4. Open your browser and navigate to http://localhost:3000 to access the URL shortener.
+3. Create an env file with your TinyURL API token (Written like this "VITE_APP_TOKEN=YOURTOKENHERE")
+4. Start the development server: npm run dev
+5. Open your browser and navigate to http://localhost:3000 to access the URL shortener.
 
 ## Features
 
